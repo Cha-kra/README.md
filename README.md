@@ -1,5 +1,6 @@
 ![BtMT](https://user-images.githubusercontent.com/93220185/185973848-e14e1299-435c-4574-9c0f-54e4ceaafa26.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Savino+Capelluto;I'm+36+years+old;I+from+England,+I+am+a+Backend+Developer;+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+<img align="top-right" alt="mongodb" height="300" width="600" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Savino+Capelluto;+I+am+a+Backend+Developer;+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 ## 
 
 
@@ -24,7 +25,7 @@
 
    <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
    <img align="center" alt="mongodb" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  
+   
    <hr>
  
    
