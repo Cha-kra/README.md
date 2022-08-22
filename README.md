@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Savino+Capelluto;I'm+36+years+old;I+from+England,+I+am+a+Backend+Developer;+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 ## 
 
-<img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
+<img align="right" width="276" src="https://i.gifer.com/39Cb.gif" />
 <br>
 
 <div>
@@ -10,9 +10,9 @@
     
    </ul>
    <p> 
-      <a href="https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"           target="_blank">
-         aqui
-      </a>
+      
+         
+      
       
    </p>
 </div>
@@ -23,9 +23,7 @@
 <div align="center" style="display: inline-block"><br>  
 
    <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-   
- 
- <img align="center" alt="mongodb" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img align="center" alt="mongodb" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   
    <hr>
  
