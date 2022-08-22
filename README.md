@@ -1,4 +1,6 @@
-![BtMT](https://user-images.githubusercontent.com/93220185/185973848-e14e1299-435c-4574-9c0f-54e4ceaafa26.gif)
+
+![github-header-image (1)](https://user-images.githubusercontent.com/93220185/186021732-ffb21443-c36d-44eb-acf1-95bcf985358d.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Savino+Capelluto;+I+am+a+Backend+Developer;+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 ## 
