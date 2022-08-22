@@ -23,7 +23,7 @@
 <div align="center" style="display: inline-block"><br>  
 
    <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-   <img align="center" alt="Aws" height="30" width="100" src="https://img.shields.io/badge/Aws-FFD43B?style=for-the-badge&logo=aws&logoColor=blue">
+   
  
  <img align="center" alt="mongodb" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   
