@@ -1,5 +1,5 @@
 ![BtMT](https://user-images.githubusercontent.com/93220185/185973848-e14e1299-435c-4574-9c0f-54e4ceaafa26.gif)
-## 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Savino+Capelluto;I'm+36+years+old;I+from+England,+I+am+a+Backend+Developer;+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 ## 
 
 <img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
@@ -13,7 +13,7 @@
       <a href="https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"           target="_blank">
          aqui
       </a>
-      para ver o meu currículo!
+      
    </p>
 </div>
  
@@ -44,3 +44,4 @@
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
  </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
