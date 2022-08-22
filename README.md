@@ -1,6 +1,6 @@
 ![BtMT](https://user-images.githubusercontent.com/93220185/185973848-e14e1299-435c-4574-9c0f-54e4ceaafa26.gif)
-## Olá!:v:  Daniel Batista :wave:
-## Um breve resumo sobre mim:
+## 
+## 
 
 <img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
 <br>
