@@ -22,7 +22,7 @@
  
  <br><br>
  ## Skills
- 
+<img alt="Alt text" src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white"/> 
 <div align="center" style="display: inline-block"><br>  
    
    <img align="left" src="https://skillicons.dev/icons?i=py,github,fastapi,qt,aws,docker,dynamodb,postgres,mongodb" />
