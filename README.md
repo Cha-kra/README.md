@@ -22,6 +22,8 @@
  
  <br><br>
  ## Skills
+ [![npm version](https://badge.fury.io/js/fastify.svg)](https://badge.fury.io/js/fastify)
+ <img alt="Alt text" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white"/> 
 <div align="center" style="display: inline-block"><br>  
    
