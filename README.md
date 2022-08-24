@@ -1,6 +1,6 @@
 
 ![github-header-image (3)](https://user-images.githubusercontent.com/93220185/186023890-880956c9-046a-42d5-ab70-36104650912e.png)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Savino+Capelluto;+I+am+a+Backend+Developer;+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
