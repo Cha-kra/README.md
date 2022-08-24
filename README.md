@@ -28,9 +28,11 @@
  [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/it/)
  [![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
  
+
+
  <div align="center" style="display: inline-block"><br>  
    
-   <img align="left" src="https://skillicons.dev/icons?i=py,github,fastapi,qt,aws,docker,dynamodb,postgres,mongodb" />
+  
    
    <hr>
  
