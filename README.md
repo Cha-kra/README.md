@@ -14,7 +14,7 @@
  
  <br><br>
  ## Skills
- [![Linux](https://img.shields.io/badge/--F7DF1E?logo=linux&logoColor=000)](https://www.linux.org/)
+ 
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 
