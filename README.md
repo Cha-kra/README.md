@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Savino+Capelluto;+I+am+a+Linux+System+Administrator;+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 ## 
       
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/KuramaChakr4/KuramaChakr4/blob/output/github-contribution-grid-snake.gif)
       
       
    </p>
