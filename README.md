@@ -23,7 +23,7 @@
  
  <br><br>
  ## Skills
- [![Linux](https://img.shields.io/badge/--F7DF1E?logo=linux&logoColor=000)](https://www.linux.com/)
+ [![Linux](https://img.shields.io/badge/--F7DF1E?logo=linux&logoColor=000)](https://www.linux.org/)
 
 
 
