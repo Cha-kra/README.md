@@ -15,7 +15,8 @@
  <br><br>
  ## Skills
  
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black" />
 
 
  <div align="center" style="display: inline-block"><br>  
