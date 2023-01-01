@@ -10,10 +10,18 @@
       
       
  ## Skills 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black"/> 
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=black"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
- 
- <br><br>
- ## Skills
+
  
  
 <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black"/> 
