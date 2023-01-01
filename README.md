@@ -1,4 +1,9 @@
-
+<div>
+      <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      </h1>
+</div>      
 ![github-header-image (3)](https://user-images.githubusercontent.com/93220185/186023890-880956c9-046a-42d5-ab70-36104650912e.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cha-kra&show_icons=true&theme=chartreuse-dark)
 
@@ -21,10 +26,7 @@
     <img src="https://img.shields.io/badge/Kubernetes-FCC624?style=for-the-badge&logo=kubernetes&logoColor=black"/>
   </a>
 </div>
-    <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
+    
 
  
  
