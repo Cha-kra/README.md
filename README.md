@@ -13,11 +13,11 @@
 
       
 ### :woman_technologist: About Me :
---- :telescope: I’m working as a Backend and contributing to backend for building web applications.
+- :telescope: I’m working as a Backend and contributing to backend for building web applications.
 
---- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing.
 
---- :zap: In my free time, I solve problems.
+- :zap: In my free time, I solve problems.
 
 
       
