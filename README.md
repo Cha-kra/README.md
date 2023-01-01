@@ -37,10 +37,10 @@
     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)"/> 
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Kubernetes-FCC624?style=for-the-badge&logo=kubernetes&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
 </div>
     
