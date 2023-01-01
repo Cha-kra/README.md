@@ -9,7 +9,7 @@
 
       
       
-   </p>
+ ## Skills 
 </div>
  
  <br><br>
