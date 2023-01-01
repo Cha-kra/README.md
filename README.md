@@ -13,13 +13,13 @@
 
       
 ### :woman_technologist: About Me :
-- :telescope: I’m working as a Backend and contributing to backend for building web applications.
+--- :telescope: I’m working as a Backend and contributing to backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+--- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems.
+--- :zap: In my free time, I solve problems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/🐍savino-capelluto🐍-456074236)
+
       
       
  ### :hammer_and_wrench: Languages and Tools :
