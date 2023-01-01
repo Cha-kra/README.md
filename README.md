@@ -15,7 +15,7 @@
  <br><br>
  ## Skills
  
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+ 
  <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kubernetes-FCC624?style=for-the-badge&logo=kubernetes&logoColor=black" />
