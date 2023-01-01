@@ -22,7 +22,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/🐍savino-capelluto🐍-456074236))
       
       
- ## Skills 
+ ### :hammer_and_wrench: Languages and Tools :
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black"/> 
@@ -40,15 +40,9 @@
  
 
 <div align="center" style="display: inline-block">
-   
-  
-   
-  
- 
-   
 </div>
   
-  ## Tools
+  
  
 <div align="center"> 
   
