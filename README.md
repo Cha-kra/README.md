@@ -15,14 +15,14 @@
 ### :woman_technologist: About Me :
 - :telescope: I’m working as a Backend and contributing to backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am a Poker Player.
 
 - :zap: In my free time, I solve problems.
 🤔
 
       
       
- ### :hammer_and_wrench: Languages and Tools :
+ ### :hammer_and_wrench: Skills and Tools :
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black"/> 
