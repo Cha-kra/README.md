@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Sql-4EA94B?style=for-the-badge&logo=sql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sql-4EA926?style=for-the-badge&logo=sql&logoColor=white"/>
   </a>
 </div>
     
